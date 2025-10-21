@@ -49,6 +49,6 @@ cd business-card
 
 👨‍💻 Author
 
-Manas Kumar Jha
-Fullstack Developer
+Manas Kumar Jha|
+Fullstack Developer|
 📍 San Francisco
